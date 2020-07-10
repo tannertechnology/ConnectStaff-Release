@@ -1,3 +1,8 @@
+There is a lot more work to do on this, currently it syncs assignments (press assign me in cw and the ticket appears in hubstaff, delete (not mark done) the assignment and hubstaff will delete the associated project.)
+
+Consider it abandoned as we finally left ConnectWise back in December and I only just got around to uploading my progress. I am happy to help but would need access to a test instance of ConnectWise Manage. 
+
+
 # ConnectStaff by Tanner Anderson
 ###  Connects ConnectWise Manage and HubStaff for better time tracking for all! 
 
