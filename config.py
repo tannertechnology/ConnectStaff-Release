@@ -13,7 +13,7 @@ config = {
     'hs_clientid': '',
     'hs_clientsecret': '',
     'redirect_uri': 'localhost',  # Domain only here, will always call http://{redirect_uri}:{port}/auth
-    'hs_org_id':  214455,
+    'hs_org_id':  ,
 
     # More stuff not to touch
     'scope': 'openid hubstaff:write hubstaff:read',
